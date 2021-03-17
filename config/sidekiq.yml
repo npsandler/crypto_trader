@@ -1,0 +1,5 @@
+
+:schedule:
+  pollingworker:
+    cron: '*/5 * * * *'   # Runs every 5 minutes
+    class: PollingWorker

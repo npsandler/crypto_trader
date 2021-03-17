@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2021_03_17_044023) do
+ActiveRecord::Schema.define(version: 2021_03_17_052222) do
 
   create_table "orders", force: :cascade do |t|
   end
